@@ -1,0 +1,175 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2889863872",
+  "source": {
+   "name": "Question 1: ",
+   "showName": true,
+   "instructions": "**State whether the following statements describe ‘star’ or ‘mesh’ networks.**",
+   "points": "1",
+   "showValues": true,
+   "text": "Each node is connected individually to a file server or switch: <<<star>>>\nAll the nodes are connected to each other: <<<mesh>>>\nThere are alternative routes across the network. Even if one of the components fails there is always an alternative route for the data. <<<mesh>>>\n",
+   "tokens": {
+    "blank": [
+     "star",
+     "mesh",
+     "mesh"
+    ],
+    "text": [
+     "Each node is connected individually to a file server or switch: ",
+     0,
+     "\nAll the nodes are connected to each other: ",
+     0,
+     "\nThere are alternative routes across the network. Even if one of the components fails there is always an alternative route for the data. ",
+     0,
+     "\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4227165314",
+  "source": {
+   "name": "Question 2: ",
+   "showName": true,
+   "instructions": "**Complete the following sentences.**",
+   "points": "1",
+   "showValues": true,
+   "text": "All devices on a network has a <<<unique>>> address called its <<<MAC>>> address so that data can be delivered to the correct device on a <<<LAN>>>. \nThe technology and data transmission rules for <<<protocols>>> for wired networks are contained in the <<<Ethernet>>> standard whilst that used most for wireless networks <<<Wi-Fi>>>.\n",
+   "tokens": {
+    "blank": [
+     "unique",
+     "MAC",
+     "LAN",
+     "protocols",
+     "Ethernet",
+     "Wi-Fi"
+    ],
+    "text": [
+     "All devices on a network has a ",
+     0,
+     " address called its ",
+     0,
+     " address so that data can be delivered to the correct device on a ",
+     0,
+     ". \nThe technology and data transmission rules for ",
+     0,
+     " for wired networks are contained in the ",
+     0,
+     " standard whilst that used most for wireless networks ",
+     0,
+     ".\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2579177842",
+  "source": {
+   "name": "Question 3: ",
+   "showName": true,
+   "instructions": "**Name the protocols from their descriptions.**",
+   "points": "1",
+   "showValues": true,
+   "text": "Adds a header containing the source and destination MAC addresses: <<<Ethernet>>>\nUsed for sending email messages from client to server and then from server to server until it reaches its destination: <<<SMTP>>>\nDivides the data into packets of the correct size: <<<TCP>>>\nAdds the source and destination IP addresses to the packets and routes them to the recipient computer: <<<IP>>>\nUsed for the transfer of files between computers: <<<FTP>>>\n",
+   "tokens": {
+    "blank": [
+     "Ethernet",
+     "SMTP",
+     "TCP",
+     "IP",
+     "FTP"
+    ],
+    "text": [
+     "Adds a header containing the source and destination MAC addresses: ",
+     0,
+     "\nUsed for sending email messages from client to server and then from server to server until it reaches its destination: ",
+     0,
+     "\nDivides the data into packets of the correct size: ",
+     0,
+     "\nAdds the source and destination IP addresses to the packets and routes them to the recipient computer: ",
+     0,
+     "\nUsed for the transfer of files between computers: ",
+     0,
+     "\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3511941386",
+  "source": {
+   "name": "Question 4: ",
+   "showName": true,
+   "instructions": "**Complete the following sentences.**",
+   "points": "1",
+   "showValues": true,
+   "text": "The layering of the protocols allows them to be <<<combined>>> in different ways as required. One layer can be <<<developed>>>  without affecting the other layers.\nLayering makes it easier to identify and correct networking <<<errors>>>.\nIt provides a universal <<<standard>>> for hardware and software manufacturers to follow so that they will be able to communicate with each other.",
+   "tokens": {
+    "blank": [
+     "combined",
+     "developed",
+     "errors",
+     "standard"
+    ],
+    "text": [
+     "The layering of the protocols allows them to be ",
+     0,
+     " in different ways as required. One layer can be ",
+     0,
+     "  without affecting the other layers.\nLayering makes it easier to identify and correct networking ",
+     0,
+     ".\nIt provides a universal ",
+     0,
+     " for hardware and software manufacturers to follow so that they will be able to communicate with each other."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2126425069",
+  "source": {
+   "name": "Question 5: ",
+   "showName": true,
+   "instructions": "**Complete the following sentences.**",
+   "points": "1",
+   "showValues": true,
+   "text": "Data packets are transmitted across the internet using <<<packet>>> <<<switching>>>. The file is split into packets which are  addressed with the recipient’s <<<IP address>>>. <<<Routers>>> on the network inspect each packet and decide the most efficient path for the packet to take. The different packets can travel by different <<<routes>>>. If there is a problem with one part of the network packets can be <<<routed>>> around the problem. The same <<<line>>> can carry <<<packets>>> from communications at the same time.",
+   "tokens": {
+    "blank": [
+     "packet",
+     "switching",
+     "IP address",
+     "Routers",
+     "routes",
+     "routed",
+     "line",
+     "packets"
+    ],
+    "text": [
+     "Data packets are transmitted across the internet using ",
+     0,
+     " ",
+     0,
+     ". The file is split into packets which are  addressed with the recipient’s ",
+     0,
+     ". ",
+     0,
+     " on the network inspect each packet and decide the most efficient path for the packet to take. The different packets can travel by different ",
+     0,
+     ". If there is a problem with one part of the network packets can be ",
+     0,
+     " around the problem. The same ",
+     0,
+     " can carry ",
+     0,
+     " from communications at the same time."
+    ]
+   }
+  }
+ }
+]
