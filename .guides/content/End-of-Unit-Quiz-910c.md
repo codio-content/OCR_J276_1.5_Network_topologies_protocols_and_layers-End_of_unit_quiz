@@ -36,5 +36,11 @@ It provides a universal **standard** for hardware and software manufacturers to 
 |||guidance
 # Solution
 
-Data packets are transmitted across the internet using **packet** **switching**. The file is split into packets which are  addressed with the recipient’s **IP address**. **Routers** on the network inspect each packet and decide the most efficient path for the packet to take. The different packets can travel by different **routes**. If there is a problem with one part of the network packets can be **routed** around the problem. The same **line** can carry **packets** from communications at the same time.
+Data packets are transmitted across the internet using **packet** **switching**. The file is split into packets which are  addressed with the recipient’s **IP address**. **Routers** on the network inspect each packet and decide the most efficient path for the packet to take. 
+|||
+{Check It!|assessment}(fill-in-the-blanks-3855420995)
+
+|||guidance
+# Solution
+The different packets can travel by different **routes**. If there is a problem with one part of the network packets can be **routed** around the problem. The same **line** can carry **packets** from communications at the same time.
 |||

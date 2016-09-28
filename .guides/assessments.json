@@ -138,17 +138,13 @@
    "instructions": "**Complete the following sentences.**",
    "points": "1",
    "showValues": true,
-   "text": "Data packets are transmitted across the internet using <<<packet>>> <<<switching>>>. The file is split into packets which are  addressed with the recipient’s <<<IP address>>>. <<<Routers>>> on the network inspect each packet and decide the most efficient path for the packet to take. The different packets can travel by different <<<routes>>>. If there is a problem with one part of the network packets can be <<<routed>>> around the problem. The same <<<line>>> can carry <<<packets>>> from communications at the same time.",
+   "text": "Data packets are transmitted across the internet using <<<packet>>> <<<switching>>>. The file is split into packets which are  addressed with the recipient’s <<<IP address>>>. <<<Routers>>> on the network inspect each packet and decide the most efficient path for the packet to take. ",
    "tokens": {
     "blank": [
      "packet",
      "switching",
      "IP address",
-     "Routers",
-     "routes",
-     "routed",
-     "line",
-     "packets"
+     "Routers"
     ],
     "text": [
      "Data packets are transmitted across the internet using ",
@@ -159,7 +155,30 @@
      0,
      ". ",
      0,
-     " on the network inspect each packet and decide the most efficient path for the packet to take. The different packets can travel by different ",
+     " on the network inspect each packet and decide the most efficient path for the packet to take. "
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3855420995",
+  "source": {
+   "name": "Question 6:",
+   "showName": true,
+   "instructions": "**Complete the following sentences:**",
+   "points": "1",
+   "showValues": true,
+   "text": "The different packets can travel by different <<<routes>>>. If there is a problem with one part of the network packets can be <<<routed>>> around the problem. The same <<<line>>> can carry <<<packets>>> from communications at the same time.",
+   "tokens": {
+    "blank": [
+     "routes",
+     "routed",
+     "line",
+     "packets"
+    ],
+    "text": [
+     "The different packets can travel by different ",
      0,
      ". If there is a problem with one part of the network packets can be ",
      0,
